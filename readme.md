@@ -25,7 +25,7 @@ Swagger URL: http://localhost:8080/swagger-ui.html
     - Request Body
 
 ### Lab
- - String name
+ - String .
  - String address
  - String phone
  - String pincode
